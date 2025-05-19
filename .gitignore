@@ -1,0 +1,6 @@
+# Ignorera Visual Studio-filer
+.vs/
+*.user
+*.suo
+*.cache
+*.vsidx
